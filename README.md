@@ -5,6 +5,6 @@ English-Chinese corpus:
 
 genre: journal 
 
-annotation tool: Yawat 
+annotation tool: Web application Yawat (https://github.com/ugermann/yawat)
 
-annotation guidelines: https://yumingzhai.github.io/files/Annotation_guide_EN_ZH.pdf 
+annotation guidelines (https://yumingzhai.github.io/files/Annotation_guide_EN_ZH.pdf) 
