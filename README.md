@@ -3,9 +3,9 @@ Parallel corpus annotated with translation techniques
 
 annotation tool: [Web application Yawat](https://github.com/ugermann/yawat)
 
-English-Chinese corpus: 
+**English-Chinese corpus:** 
 
-[annotation guidelines](https://yumingzhai.github.io/files/Annotation_guide_EN_ZH.pdf) 
+[EN-ZH annotation guidelines](https://yumingzhai.github.io/files/Annotation_guide_EN_ZH.pdf) 
 
 Genre 1: journal 
 
