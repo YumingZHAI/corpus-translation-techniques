@@ -1,7 +1,9 @@
 # corpus-translation-techniques
-Parallel corpus annotated with translation techniques
+This repository contains our bilingual parallel corpus annotated with translation techniques, and relevant scripts to process them. 
 
 annotation tool: [Web application Yawat](https://github.com/ugermann/yawat)
+
+Licence: Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
 **English-Chinese corpus:** 
 
@@ -13,11 +15,9 @@ Genre 1: journal
 
 original corpus: [manually aligned Chinese-English sentence pairs to evaluate TsinghuaAligner (A Statistical Bilingual Word Alignment System), version 2018/10/13](https://nlp.csai.tsinghua.edu.cn/~ly/systems/TsinghuaAligner/TsinghuaAligner.html)
 
-Licence: Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
-
 **English-French corpus:** 
 
-The original corpus are from TED Talks, we used a portion of corpus released for the evaluation campaign IWSLT 2013 and 2014. 
+The original corpus are from TED Talks, we used a portion of it released for the evaluation campaign IWSLT 2013 and 2014. 
 
 [EN-FR annotation guidelines](https://yumingzhai.github.io/files/Annotation_guide_EN_FR.pdf) 
 
